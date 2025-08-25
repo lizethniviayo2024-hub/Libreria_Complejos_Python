@@ -57,3 +57,4 @@ def fase(z):
     """Calcula la fase de un número complejo"""
     a, b = z
     return math.atan2(b, a)
+
